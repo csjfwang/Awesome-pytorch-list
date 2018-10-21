@@ -14,6 +14,11 @@ Awesome-Pytorch-list
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 
+## Related Introduction
+
+1. [Translation](https://mp.weixin.qq.com/s/wNs2CCoFOJnNrtr_7h_2mQ): Chinese version by 机器之心.
+2. [Original Repository](https://github.com/bharathgs/Awesome-pytorch-list).
+
 ### NLP & Speech Processing:
 
 1. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.  
